@@ -1,2 +1,2 @@
-#!/bin/basih
-ln -s /bin/ls __ls_
+#!/bin/basih#
+ln -s /bin/ls __ls__
