@@ -1,2 +1,2 @@
 #!/bin/basih
-1n -s /bin/ls _ls_
+1n -s /bin/ls __ls_
